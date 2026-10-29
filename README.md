@@ -37,3 +37,16 @@
         </a>
       </td>
     </tr>
+  </table>
+</div>
+
+---
+<div align="center">
+  <img src="./img/icei.png" alt="Engenharia de Software e ICEI PUC Minas" width="100%" />
+  <p><strong>Sigam as páginas do curso</strong></p>
+  <p>
+    <a href="https://www.instagram.com/engsoftwarepucminas?utm_source=ig_web_button_share_sheet&psln=ZDNlZDc0MzIxNw==">Engenharia de Software</a>
+    &nbsp;|&nbsp;
+    <a href="https://www.instagram.com/iceipucminas?utm_source=ig_web_button_share_sheet&rpxt=ZDNlZDc0MzIxNw==">ICEI PUC Minas</a>
+  </p>
+</div>
