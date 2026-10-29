@@ -4,8 +4,6 @@
 
 ---
 
-# Redes sociais
-
 <div align="center">
   <table>
     <tr>
