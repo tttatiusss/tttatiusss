@@ -31,6 +31,11 @@
           <img src="./img/linkedin2.png" alt="LinkedIn" width="50" height="50" />
         </a>
       </td>
+      <td>
+        <a href="https://open.spotify.com/user/31bfymvu2ro36o5svbvibbxkwfpy?si=122e7308caec4366">
+          <img src="./img/spotify.gif" alt="Spotify" width="50" height="50" />
+        </a>
+      </td>
     </tr>
   </table>
 </div>
