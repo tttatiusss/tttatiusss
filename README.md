@@ -1,7 +1,3 @@
-<div align="center">
-  <img alt="Banner do Linux" src="./img/headerlinux.png" />
-</div>
-
 ---
 
 <div align="center">
