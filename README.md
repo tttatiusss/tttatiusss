@@ -1,3 +1,6 @@
+## About me
+My name is Taccio, and I'm a Software Engineering student at PUC Minas. I began my career maintaining networks and hardware in an industrial mining environment, which gave me a systems perspective. Today I'm a software developer, applying programming to solve everyday problems, and I'm looking to deepen my knowledge of Software Engineering even further, going beyond development.
+---
 <div align="center">
   <table>
     <tr>
@@ -39,11 +42,6 @@
     </tr>
   </table>
 </div>
-
----
-## About me
-
-My name is Taccio, and I'm a Software Engineering student at PUC Minas. I began my career maintaining networks and hardware in an industrial mining environment, which gave me a systems perspective. Today I'm a software developer, applying programming to solve everyday problems, and I'm looking to deepen my knowledge of Software Engineering even further, going beyond development.
 ---
 <div align="center">
   <img src="./img/icei.png" alt="Engenharia de Software e ICEI PUC Minas" width="100%" />
