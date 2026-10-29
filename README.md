@@ -1,5 +1,3 @@
----
-
 <div align="center">
   <table>
     <tr>
@@ -11,12 +9,6 @@
       <td>
         <a href="mailto:taccionavidareal1@gmail.com">
           <img src="./img/gmail2.png" alt="E-mail" width="50" height="50" />
-        </a>
-      </td>
-      <td>
-       <td>
-        <a href="https://www.chess.com/member/ttttatiussss">
-          <img src="./img/chess-com.png" alt="Xadrez de Cria" width="50" height="50" />
         </a>
       </td>
       <td>
@@ -34,9 +26,11 @@
           <img src="./img/spotify.gif" alt="Spotify" width="50" height="50" />
         </a>
       </td>
+      <td>
+        <a href="https://www.chess.com/member/ttttatiussss">
+          <img src="./img/chess-com.png" alt="Chess.com" width="50" height="50" />
+        </a>
+      </td>
     </tr>
   </table>
-</div>
-
----
 </div>
