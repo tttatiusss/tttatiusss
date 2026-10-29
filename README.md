@@ -43,6 +43,7 @@
 ---
 <div align="center">
   <img src="./img/icei.png" alt="Engenharia de Software e ICEI PUC Minas" width="100%" />
+  <p><strong>Redes Sociais dos Cursos</strong></p>
   <p>
     <a href="https://www.instagram.com/engsoftwarepucminas?utm_source=ig_web_button_share_sheet&psln=ZDNlZDc0MzIxNw==">Engenharia de Software</a>
     &nbsp;|&nbsp;
