@@ -1,4 +1,4 @@
-My name is Taccio, and I'm a Software Engineering student at PUC Minas. I began my career maintaining networks and hardware in an industrial mining environment, which gave me a systems perspective. Today I'm a software developer, applying programming to solve everyday problems, and I'm looking to deepen my knowledge of Software Engineering even further, going beyond development.
+My name is Taccio Silvas, and I'm a Software Engineering student at PUC Minas. I began my career maintaining networks and hardware in an industrial mining environment, which gave me a systems perspective. Today I'm a software developer, applying programming to solve everyday problems, and I'm looking to deepen my knowledge of Software Engineering even further, going beyond development.
 ---
 <div align="center">
   <table>
@@ -25,7 +25,7 @@ My name is Taccio, and I'm a Software Engineering student at PUC Minas. I began 
       </td>
       <td>
         <a href="https://open.spotify.com/user/31bfymvu2ro36o5svbvibbxkwfpy?si=122e7308caec4366">
-          <img src="./img/spotify.gif" alt="Spotify" width="50" height="50" />
+          <img src="./img/Spotify.webp" alt="Spotify" width="50" height="50" />
         </a>
       </td>
       <td>
