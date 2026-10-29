@@ -14,6 +14,12 @@
         </a>
       </td>
       <td>
+       <td>
+        <a href="https://www.chess.com/member/ttttatiussss">
+          <img src="./img/chess-com.png" alt="Xadrez de Cria" width="50" height="50" />
+        </a>
+      </td>
+      <td>
         <a href="https://www.instagram.com/tttatiusss/">
           <img src="./img/insta2.png" alt="Instagram" width="50" height="50" />
         </a>
