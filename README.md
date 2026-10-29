@@ -41,6 +41,10 @@
 </div>
 
 ---
+## About me
+
+My name is Taccio, and I'm a Software Engineering student at PUC Minas and a software developer. I started out in industrial electrical work, maintaining networks and hardware in a power plant, which gave me a solid understanding of systems and a strong sense of responsibility. Today, I use programming to solve everyday problems, and I'm working to deepen my knowledge of Software Engineering, going beyond development.
+---
 <div align="center">
   <img src="./img/icei.png" alt="Engenharia de Software e ICEI PUC Minas" width="100%" />
   <p><strong>Follow our Insta page:</strong></p>
