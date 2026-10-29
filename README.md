@@ -1,6 +1,5 @@
-
-<div>
-<img align="center" alt="Header" src="/tttatiusss/headerlinux.png"/>
+<div align="center">
+  <img alt="Header" src="./headerlinux.png" />
 </div>
 
 -----
