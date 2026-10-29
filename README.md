@@ -27,6 +27,11 @@
         </a>
       </td>
       <td>
+        <a href="https://letterboxd.com/tatius/">
+          <img src="./img/letterboxd.png" alt="Letterboxd" width="50" height="50" />
+        </a>
+      </td>
+      <td>
         <a href="https://www.chess.com/member/ttttatiussss">
           <img src="./img/chess-com.png" alt="Chess.com" width="50" height="50" />
         </a>
