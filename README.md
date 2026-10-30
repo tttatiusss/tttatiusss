@@ -70,6 +70,6 @@ Software Engineering student at PUC Minas and software developer. I began my car
 
 Sou estudante de **Engenharia de Software na PUC Minas**, no 3º período. Programo principalmente em **Javascript** e **Python**, e no front-end trabalho com **React, JavaScript, HTML e CSS**. Gosto de projetos em que criatividade e técnica precisam andar juntas, e agora estou aprendendo **Spring Boot** e **Arquitetura De Computadores**.
 
-Estou aberto a conversas sobre desenvolvimento, grupos de estudo e **oportunidades de estágio**. Me chama no [LinkedIn]) ou por [e-mail]
+Estou aberto a conversas sobre desenvolvimento, grupos de estudo e **oportunidades de estágio**. Me chama no LinkedIn ou por e-mail.
 
 </details>
