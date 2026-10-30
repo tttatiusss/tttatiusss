@@ -39,7 +39,7 @@
     </tr>
   </table>
 </div>
----
+
 👨🏽‍💻Hi, I'm Taccio Silvas 
 
 Software Engineering student at PUC Minas and software developer. I began my career maintaining networks and hardware in an industrial mining environment, which gave me a systems perspective. Today I apply programming to solve everyday problems, and I'm looking to deepen my knowledge of Software Engineering even further, going beyond development.
